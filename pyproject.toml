@@ -8,7 +8,7 @@ version = "0.1.0"
 dynamic = ["dependencies"]
 
 [tool.setuptools]
-packages = ["science_project"]
+packages = ["training"]
 
 [tool.setuptools.dynamic]
 dependencies = {file = ["requirements.txt"]}
