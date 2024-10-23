@@ -1,1 +1,1 @@
-from .main import add_one
+from .main import add_one, add_two
